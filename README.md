@@ -18,7 +18,7 @@ Make sure you have the following installed:
 
 1. Clone the Repository
    Open your terminal and run:
-     git clone https://github.com/bTAG16/contact-manager-websharper.git
+     git clone https://github.com/BTAG16/Contact-Manager.git
    Navigate to the project directory:
     cd contact-manager-websharper
     
