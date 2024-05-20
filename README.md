@@ -35,7 +35,7 @@ Make sure you have the following installed:
 4. Run the Application
     Set the startup project if not already set.
     Press F5 or click the Start button to run the application.
-    Open your web browser and go to https://localhost:55835
+    Your Default web browser should automatically load the project
 
    
 ## Troubleshooting
