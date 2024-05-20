@@ -18,9 +18,9 @@ Make sure you have the following installed:
 - [WebSharper](https://websharper.com/downloads)
 
 1. Clone the Repository
-   Open your terminal and run:
+   1. Open your terminal and run:
       git clone https://github.com/BTAG16/Contact-Manager.git
-   Navigate to the project directory:
+   2. Navigate to the project directory:
       cd contact-manager-websharper
     
 2. Open the Project in Visual Studio
