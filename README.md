@@ -45,26 +45,33 @@ Make sure you have the following installed:
 
   
 ## Usage
-  Adding a Contact
+  Adding a Contact:
     Open the application in your browser.
     Fill in the contact form with name, email, phone number, and address.
     Click the "Submit" button to save the contact.
     
-  Viewing Contacts
+  Viewing Contacts:
     Click the "View Contacts" button.
     A pop-up box will appear showing all stored contacts.
     
-  Editing a Contact
+  Editing a Contact:
     Click the "Edit" button next to the contact you wish to edit.
-    Modify the contact information in the form that appears.
-    Click "Save" to update the contact details.
+    Modify the contact information in the form.
+    Click "Submit" to update the contact details.
     
-  Deleting a Contact
+  Deleting a Contact:
     Click the "Delete" button next to the contact you wish to delete.
-    Confirm the deletion in the prompt that appears.
     
 ## Screenshots
+![Screenshot 2024-05-20 031050](https://github.com/BTAG16/Contact-Manager/assets/128963075/58c6fc74-561f-48e1-95f9-9900df73823c)
 
+![Screenshot 2024-05-20 031115](https://github.com/BTAG16/Contact-Manager/assets/128963075/d63f6d5a-2e5f-4352-a4e3-64addafdc465)
+
+![Screenshot 2024-05-20 031136](https://github.com/BTAG16/Contact-Manager/assets/128963075/ef8e76c7-c2fb-4f04-ad65-3f5110e5ab7a)
+
+![Screenshot 2024-05-20 031313](https://github.com/BTAG16/Contact-Manager/assets/128963075/47b1aab8-aab2-46d3-b535-a4b185230c1b)
+
+![Screenshot 2024-05-20 031336](https://github.com/BTAG16/Contact-Manager/assets/128963075/7fe064f7-e157-4868-a529-bf725db8f650)
 
 ## Contributing
   Contributions are welcome! Please fork the repository and submit a pull request.
