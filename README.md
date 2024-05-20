@@ -70,9 +70,9 @@ Make sure you have the following installed:
 
 ![Screenshot 2024-05-20 031136](https://github.com/BTAG16/Contact-Manager/assets/128963075/ef8e76c7-c2fb-4f04-ad65-3f5110e5ab7a)
 
-![Screenshot 2024-05-20 031313](https://github.com/BTAG16/Contact-Manager/assets/128963075/47b1aab8-aab2-46d3-b535-a4b185230c1b)
+![Screenshot 2024-05-20 091427](https://github.com/BTAG16/Contact-Manager/assets/128963075/30b7c1c4-ccf1-4824-aaa9-af6b4805c7f4)
 
-![Screenshot 2024-05-20 031336](https://github.com/BTAG16/Contact-Manager/assets/128963075/7fe064f7-e157-4868-a529-bf725db8f650)
+![Screenshot 2024-05-20 091439](https://github.com/BTAG16/Contact-Manager/assets/128963075/95c4bd3d-f771-45b9-9bb4-65484360e39c)
 
 ## Contributing
   Contributions are welcome! Please fork the repository and submit a pull request.
