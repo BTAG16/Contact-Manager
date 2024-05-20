@@ -14,7 +14,7 @@ A Contact Manager web application built with WebSharper and F#. Users can input,
 Make sure you have the following installed:
 
 - [Visual Studio](https://visualstudio.microsoft.com/) (2019 or later) with the .NET desktop development workload
-- [WebSharper](https://websharper.com/download)
+- [WebSharper](https://websharper.com/downloads)
 
 1. Clone the Repository
    Open your terminal and run:
