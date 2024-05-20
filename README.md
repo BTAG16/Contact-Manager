@@ -38,9 +38,9 @@ Make sure you have the following installed:
 
    
 ## Troubleshooting
-Issue: Missing dependencies
+1. Issue: Missing dependencies
   Solution: Ensure NuGet packages are restored via Build > Restore NuGet Packages.
-Issue: Build errors
+2. Issue: Build errors
   Solution: Check for any missing SDKs or mismatched versions.
 
   
