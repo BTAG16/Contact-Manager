@@ -1,5 +1,6 @@
 # Contact-Manager
 A Contact Manager web application built with WebSharper and F#. Users can input, view, edit, and delete their contact information.
+You can preview the site here : https://btag16.github.io/Contact-Manager/
 
 ## Features
 
@@ -45,21 +46,21 @@ Make sure you have the following installed:
 
   
 ## Usage
-  Adding a Contact:
+1.  Adding a Contact:
     Open the application in your browser.
     Fill in the contact form with name, email, phone number, and address.
     Click the "Submit" button to save the contact.
     
-  Viewing Contacts:
+2.  Viewing Contacts:
     Click the "View Contacts" button.
     A pop-up box will appear showing all stored contacts.
     
-  Editing a Contact:
+3.  Editing a Contact:
     Click the "Edit" button next to the contact you wish to edit.
     Modify the contact information in the form.
     Click "Submit" to update the contact details.
     
-  Deleting a Contact:
+4.  Deleting a Contact:
     Click the "Delete" button next to the contact you wish to delete.
     
 ## Screenshots
